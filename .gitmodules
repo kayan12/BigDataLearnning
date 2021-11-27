@@ -1,0 +1,3 @@
+[submodule "Udemy/Apache Spark 2 and 3 using Python 3/spark_sql"]
+	path = Udemy/Apache Spark 2 and 3 using Python 3/spark_sql
+	url = https://github.com/kayan12/spark_sql
